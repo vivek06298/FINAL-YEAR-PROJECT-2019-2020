@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<channel>
+ <title>MSN India | Breaking News, Entertainment, Latest Videos, Outlook</title>
+ <description><![CDATA[MSN India offers latest national and World news, with the best of Cricket, Bollywood, Business, Lifestyle and more. Access Outlook mail, Skype and Bing search]]></description>
+<link>https://www.msn.com/en-in/</link>        
+        <item>
+            <title>Industries that are recession-proof</title>
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB120ofk.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1280&amp;y=578" />These positions offer both job and financial security.]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Famous mothers &amp; daughters of B&#39;wood</title>
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAteHjq.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=283&amp;y=142" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Extraordinary aquatic pictures from around the globe</title>
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB124Vyh.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />The shots feature in the 50 best images from the world&#39;s biggest free photo app Agora and include two ants drinking from a tiny water droplet]]></description>
+                <category>gallery</category>
+        </item>
+        <item>
+            <title>MSN BANGLA</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB124gM3.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1586&amp;y=1316" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Govt may borrow ₹40k crore as cash-strapped states seek funds</title>
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125SZj.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Hotspots that can swing India&#39;s COVID-19 war</title>
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1261PC.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Maharashtra: 22 COVID-19 deaths</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB122ume.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=528&amp;y=226" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Coronavirus cases top 1M worldwide, but many more likely have it</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11Bx1O.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>CWC picks holes in govt’s corona response</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB10paIG.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=662&amp;y=355" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Coronavirus: How world reached a million cases in 93 days</title>
+          
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB126bLv.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=2418&amp;y=2033" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Army Southern Command procuring supplies</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125BY4.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Goods trains stuck as no workers to unload them</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125o0g.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>CDS Gen Rawat delivers blunt message on Covid-19 battle</title>
+        
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125PNw.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1463&amp;y=913" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>India&#39;s Navy ships, medical teams on standby for assistance to neighbours</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125YOk.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Devoleena says she wants to work with Sidharth Shukla in a music video</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB126BBz.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=296&amp;y=260" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Neena Gupta&#39;s quarantine time is more than just parlour dilemma</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11ZoxW.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=319&amp;y=335" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Shows that Saif Ali Khan is bingeing on during quarantine</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1234b8.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=299&amp;y=119" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>&#39;Tweeted because I was getting bored&#39;: Ram Gopal Verma on COVID-19 post</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB126jJR.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Forgotten Bollywood actresses of the 2000s</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB109H5E.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=512&amp;y=205" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Top Gun movie sequel moved to December</title>
+          
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1258q7.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=2363&amp;y=866" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>I have been shamed for my costumes: Neha Bhasin</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125PQU.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=453&amp;y=368" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Shah Rukh Khan joins COVID-19 fight</title>
+          
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1252o3.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=428&amp;y=122" />Shah Rukh Khan&#39;s Red Chillies Entertainment and VFX, KKR and Meer Foundation lend support to PM Narendra Modi and the government&#39;s fight against the novel coronavirus.]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Amir Khan admits he is contemplating retirement from boxing</title>
+         
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB126cId.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=921&amp;y=1053" />Amir Khan has hinted at retirement, questioning whether he will ever fight again believing another loss could ruin his entire legacy.]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>If you are too self-centred, you are looking for ways to get out: Kohli</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125gaL.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=471&amp;y=174" />Indian captain also talks about why he turned vegetarian in a chat with Kevin Pietersen]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Virat opens up on time spent with Anushka in chat with Pietersen</title>
+         
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB125gER.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=351&amp;y=197" />India captain Virat Kohli spoke to former England captain Kevin Pietersen on Instagram Live on Wednesday.]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Test cricket made me better: Kohli</title>
+          
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAJ6f9x.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=237&amp;y=115" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>&#39;Obsession&#39; over Dhoni&#39;s 2011 World Cup final six irks Gambhir</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB123QW5.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=162&amp;y=203" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Harbhajan, Yuvi on backlash over support to Afridi&#39;s COVID-19 campaign</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB1241bt.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=684&amp;y=61" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Players react to Wimbledon cancellation</title>
+          
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAE2BJU.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1008&amp;y=462" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Events cancelled due to COVID-19</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB122Z3h.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f" />The global outbreak of coronavirus disease has led to the suspension of several events around the world. Here are the big events that have been affected.]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Thousands of movies and TV shows to watch, anytime, anywhere. Start now!</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11ECwC.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=278&amp;y=136" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Enjoy millions of songs in multiple languages. Create your own playlist now!</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11EF3y.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=222&amp;y=109" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Books that speak to you. Start your free trial now!</title>
+           
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/BB11ExYx.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=530&amp;y=152" />]]></description>
+                <category>gallery</category>
+
+        </item>
+        <item>
+            <title>Microsoft Solitaire Collection: Try a daily challenge</title>
+            
+                    <description><![CDATA[<img align="left" src="https://static-global-s-msn-com.akamaized.net/img-resizer/tenant/amp/entityid/AAHxYkm.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=988&amp;y=345" />]]></description>
+                <category>gallery</category>
+
+        </item>
+</channel>
